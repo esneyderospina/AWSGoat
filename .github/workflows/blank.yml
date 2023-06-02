@@ -1,0 +1,3 @@
+- nombre: terraform-aplicar
+  usos: dflook/terraform-apply@v1.29.1
+
